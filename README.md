@@ -28,7 +28,8 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Пройти курс по Git на Slurm
-* [x] Создать свой первый проект на Github       
+* [x] Создать свой первый проект на Github  
+* [ ] Пройти курс по Kubernetes на Slurm     
 <!-- TODO-IST:END -->
 
 <!--
